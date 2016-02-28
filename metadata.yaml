@@ -1,0 +1,25 @@
+_repo: Canada-and-the-States_6874
+creator:
+  author:
+    agent_name: Watkin, E. W. (Edward William), Sir
+    alias: Watkin, Edward William, Sir
+    birthdate: 1819
+    deathdate: 1901
+    gutenberg_agent_id: '2231'
+    url: http://www.gutenberg.org/2009/agents/2231
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'Canada -- History'
+- !lcsh 'Canada -- Description and travel'
+title: Canada and the States
+url: http://www.gutenberg.org/ebooks/6874
